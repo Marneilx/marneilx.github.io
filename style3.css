@@ -10,7 +10,7 @@ body {
 header {
     margin: 0;
 	padding: 0;
-	background-color: #333;
+	background-color: #ff69b4;
 	text-align: center;
 	padding: 5px;
 }
@@ -58,7 +58,7 @@ footer {
 }
 
 .btn {
-    background-color: #333;
+    background-color: #ff69b4;
     border: none;
     color: white;
     padding: 2px 25px;
@@ -69,7 +69,7 @@ footer {
   }
   
   .btn:hover:not(.active) {
-    background-color: #ee8f9f;
+    background-color: #ffb4e2ef;
     color: black;
   }
 
@@ -78,7 +78,7 @@ footer {
   }
 
   .active {
-    background-color: #ee8f9f;
+    background-color: #ffb4e2ef;
     border: none;
     color: black;
     padding: 2px 25px;
@@ -139,7 +139,7 @@ footer {
     text-align: left;
 }
 
-.dropdown-content a:hover {background-color: #ee8f9f}
+.dropdown-content a:hover {background-color: #ffb4e2ef}
 
 .dropdown:hover .dropdown-content {
     display: block;
@@ -147,7 +147,7 @@ footer {
 }
 
 li a:hover, .dropdown:hover .dropbtn {
-    background-color: #ee8f9f;
+    background-color: #ffb4e2ef;
     color: black;
 }
 
